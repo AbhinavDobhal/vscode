@@ -14,7 +14,7 @@
 		  "",
 		"export default $TM_FILENAME_BASE;"
 		],
-		"description": "Basic Component with useState"
+		"description": "Basic Component"
 	  },
 	"ReactHooksUseState": {
 		"prefix": "rhus",
